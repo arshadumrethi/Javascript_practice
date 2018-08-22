@@ -1,0 +1,11 @@
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
